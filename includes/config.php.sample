@@ -1,0 +1,13 @@
+<?php
+//Site Config
+define('SITENAME', 'meaju');
+define('LANGUAGE', 'de');
+define('URL_LENGTH', 3);
+define('SITEURL', 'https://meaju.de');
+
+//Database
+define('DB_HOST', '127.0.0.1');
+define('DB_USER', '');
+define('DB_PASS', '');
+define('DB_DATA', '');
+?>
