@@ -6,6 +6,7 @@
 * click stats
 * no cookies, every click counts
 * "Are you sure?"- Feature
+* multi language
 
 ## Install
 download, copy on your server, edit config.php, create database. have fun :)
