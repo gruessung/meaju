@@ -7,6 +7,7 @@
 * no cookies, every click counts
 * "Are you sure?"- Feature
 * multi language
+* API
 
 ## Install
 download, copy on your server, edit config.php, create database. have fun :)
