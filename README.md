@@ -10,7 +10,7 @@
 * API
 
 ## Install
-download, copy on your server, edit config.php, create database. have fun :)
+download, copy on your server, edit config.php, create database (database.sql). have fun :)
 
 **don't forget to add your imprint and own rules!**
 
